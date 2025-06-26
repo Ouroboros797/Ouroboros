@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <info>
+        <name>Yaeger</name>
+        <update version="0.0.1">
+            <file name="class-yaeger.xml" url="https://github.com/Ouroboros797/Ouroboros/blob/main/class-yaeger.xml" />
+        </update>
+    </info>
+
+    <element name="Yaeger" type="Class" source="Yorviing" id="ID_YORVIING_CLASS_YAEGER">
+        <description>
+            <p>An elven man flashes a grin as several fiends descend upon him. In a quick flurry, the elf harnesses his focus and unleashes a series of powerful blows, bringing down teh fiends to crumple onto the groudn before him.</p>
+            <p class="indent">A human woman stands on the edge of a cliff overlooking a vast forest. Taking a deep breath, she focuses on teh sounds and scents carried by the wind. After a minute, she opens her eyes and gracefully jumps off of the cliff's edge, pursuing her quarry.</p>
+            <p class="indent">A dwarf nimbly evades teh swing of a monster's mighty claws. Upon landing to the side, the dwarf quickly pivots and immediately leaps toward the terrifying beast. HIs glaive at teh ready, the dwarf focuses all of his energy into his swing, delivering a fatal blow as the beast unleashes its final cry.</p>
+            <p class="indent">Hunters and slayers of foul monsters, the mighty yeagers are warriors who studdy the occult and obtain enhanced abilities, senses, and speed with which to better combat the supernatural.</p>
+            <h4>Monster Hunters</h4>
+            <p>Yaegers are monster hunters, training to refine their bodies, minds, and senses to better fight against foul beasts. They study occultism and the supernatural, and learn the ways of combat to fight against such threats. In addition to their rigorous martial and endurance training, yaegers learn to master their focus and mental composure. Through the use of such focus, they can exercise better control of their resolve and attacks to deliver deadlier blows. When yaegers are on a hunt, they focus almost exclusively on the task at hand.</p>
+            <p class="indent">Once they reach a certain point, a yaeger joins a yaeger guild; a group of yaegers who utilize different abilities to supplement their martial prowess and apporach monster hunting in unique ways. When a yaegar joins a yaegar guild, it involves some type of supernaturally infused induction ceremony; a mystical riutal, a foul concoction, or a special rite. This grants a yaeger supernatural abilities that make them more capable of fighting terribel and otherwordly threats, and often alters their appearance or personality.</p>
+            <h4>Supernatural Slayers</h4>
+            <p>By definition, the life of a yaeger is one of adventuring. Until their dying breath, a yaeger dedicates their life to hunting foul creatures and terrifying beasts. From undead and werewolves to aberrations and fiends, yaegers journey to the darkest of realms and the most haunting of places to fight against the vile creatures that threaten the mortal realms.</p>
+            <p class="indent">At their core, yaegers are professional students of the occult and slayers of monsters. This makes them incredibly useful members of an adventuring party, as their skills make them dangerous foes both on and off the battlefield. Since monsters never rest, neither do yaegers, and their work is never done.</p>
+            <h5>Yaegers in Yvarra</h5>
+            <p>In Yvarra, yaegers are the premier and most efficient monster hunters in the world. However, yaegers as they are known in modern Yvarra were not always the monster hunters that they became to be. The origins of yaegers can be traced back thousands of years ago to the now ruined and accursed land of Satama. There, the ancient vyrassa used blood magic to create a group of highly trained 'super hunters' known as reavers. These reavers became an elite order that directly served the Sataman nobility and judicial systems, tracking down criminals and silencing political foes.</p>
+            <p class="indent">When Satama fell alongside Athar and Xelegos during the Age of Calamity, many of the ancient texts and rites surrounding reavers were lost. However, shortly before the rise of the Witch Queens and the Age of Witchcraft, explorers uncovered lost texts detailing the rituals that created reavers. Using what they could translate and uncover, certain groups set about trying to create a new age of reavers in order to combat against the growing threat of monsters and otherworldly entities that began to flood ancient Yvarra. During this time, these new reavers fought against these supernatural forces, and it was not long before academics and arcane scholars began to experiment with the Sataman rituals. Many of these experiments were failures, but the ones that succeeded allowed for the creation of new elite super-hunters to fight monsters. Thus, the yaegers of Yvarra as they are known as now were born.</p>
+            <h5>Yaeger Origins</h5>
+            <p><strong>Nations.</strong>Yvarran yaegers can be members of any race, and their guilds can exist in many lands across Yvarra. Some of the most famous yaeger guilds, such as the hexers and pyromants, operate in the Icilian Empire, Kravnia, the Northern Realms, and Soldan.</p>
+            <p class="indent"><strong>Races.</strong>Yvarran yaegers can be members of any race, though they are most often capran, dwarves, elves, graam, grepkin, humans, isfödda, ursa, and vyrassa.</p>
+            <h5>Roles of the Yaeger</h5>
+            <p>Yaegers are monster hunters through and through. Very rarely does their role in society at large stray too far from this, though some employ yaegers for various tasks that are best suited for their skills and fighting and tracking.</p>
+            <p class="indent">Though many yaegers specialize in fighting particular types of supernatural entities and beings, a yaeger can wield their ritualistically imbued gifts to combat against any form of extraplanar or otherworldly threat. However, some yaegers often end up fighting mortals as well, frequently becoming involved in political affairs, warfare, criminal activity, and the squabbles of nobles. Regardless of their nature of their work, yaegers primarily pursue supernatural threats and dispose of dangerous magical creatures, often charging for their services or expecting favors for their guilds in return.</p>
+            <p class="indent">The following roles are optional, flavor-driven choices a player can make that can influence what kind of hunter and tracker an Yvarran yaeger can be. You can choose to roll randomly on the table below, choose an option, or work with your GM to create a role.</p>
+            <table class="yaeger role">
+			    <thead>
+				    <tr><td class="col-5">d6</td><td class="left">Role</td><td class="col-5">Description</td></tr>
+			    </thead>
+			    <tr><td> 1</td><td class="left">Guild Recruiter</td><td>A yaeger that seeks new members for their yaeger guild.</td></tr>
+			    <tr><td> 2</td><td class="left">Mercenary</td><td>A yaeger that works for the highest bidder, using their skills for hire.</td></tr>
+			    <tr><td> 3</td><td class="left">Paramander</td><td>A yaeger that seeks balance between the supernatural and the mortal.</td></tr>
+			    <tr><td> 4</td><td class="left">Paranormal Researcher</td><td>A yaeger that feverishly studies teh paranormal and extraplanar.</td></tr>
+			    <tr><td> 5</td><td class="left">Slayer</td><td>A yaeger that hunts any who are causing harm, whether beast or man</td></tr>
+			    <tr><td> 6</td><td class="left">Trophy Hunter</td><td>A yaeger that seeks only glory and reward for their hunting skills.</td></tr>
+            </table>
+            <h4>Elements of Yaeger Characters</h4>
+            <p>The life of a yaeger is one filled with violence, long periods of travel, and harsh conditions. Because of this, think about why your character decided to become a yaeger in the first place. Was it something that was expected of them, or was triggered by a dark event?</p>
+            <p class="indent">Second, yaegers train with others under the tutelage and instruction of a seasoned yaeger, known as a master. What was your instructor like? Were they careful to teach you all that you need to know, or were they distant and tough on you to learn things by experience?</p>
+            <p class="indent">When making your yaeger character more unique, consider utilizing the following sections and their associated tables: Inception, Master, and Memento.</p>
+            <h5>Inception</h5>
+            <p>Not everyone is cut out to be a yaeger; a yaeger's life is filled with turmoil and uncertainty that can drive those who lack dedication and resolve quite mad.</p>
+            <p class="indent">When creating a yaeger, consider what did lead them to take up this life. What was it that motivated them?</p>
+            <table class="inception">
+			    <thead>
+			        <tr><td class="col-5">d6</td><td class="left">Inception</td></tr>
+			    </thead>
+			    <tr><td> 1</td><td class="left">I come from a long line of yaegers, and my family has stood against the forces of other worlds and the supernatural for generations.</td></tr>
+			    <tr><td> 2</td><td class="left">My homeland is being terrorized by supernatural threats, and someone has to put a stop to it. That someone will be me.</td></tr>
+			    <tr><td> 3</td><td class="left">I live for the thrill of the hunt, the uncertainty of combat, and thrive off of danger. Thus, the life of a yaeger appealed to me.</td></tr>
+			    <tr><td> 4</td><td class="left">I had studied the supernatural and occult before. Knowing the importance of distinguishing dangerous supernatural forces from harmless ones, I became a yaeger to fight against true terrors and protect innocent supernatural beings.</td></tr>
+			    <tr><td> 5</td><td class="left">I had a life that was changed forever when my home suffered a tragedy at the hands of a dangerous supernatural force.</td></tr>
+			    <tr><td> 6</td><td class="left">I was a prisoner, one sentenced to death until a seasoned yaeger offered me a chance at a new life. Since then, I view the life of a yaeger as my redemption and salvation.</td></tr>
+		    </table>
+            <h5>Master</h5>
+            <p>Yaegers who live to become masters are those with enough experience, wisdom, and resolve to have avoided death at the hands of the supernatural. These masters have grown old in a profession where many die young, sharing their knowledge with new yaegers.</p>
+            <p class="indent">Think about the kind of master you trained under. Who were they? What was your relationship to them?</p>
+            <table class="master">
+			    <thead>
+		            <tr><td class="col-5">d6</td><td class="left">Master</td></tr>
+		        </thead>
+		        <tr><td> 1</td><td class="left">Your mentor was an older member of your family, one who has trained others in your family for years.</td></tr>
+		        <tr><td> 2</td><td class="left">You trained underneath a legendary yaeger, one whose accomplishments have become told in stories and songs time and time again.</td></tr>
+		        <tr><td> 3</td><td class="left">You were taught by a being of supernatural origin - a werewolf, a fiend, or even a revenant. They taught you to fight and to see things objectively.</td></tr>
+		        <tr><td> 4</td><td class="left">Your master was a seasoned yaeger who had seen wars and battles that you had only heard about. This made them tough and stern, and training underneath them was a grueling ordeal.</td></tr>
+		        <tr><td> 5</td><td class="left">A yaeger managed to save you from a terrible threat at a younge age. THey grew to see your potential, and decided to train you in the ways of the yaeger.</td></tr>
+		        <tr><td> 6</td><td class="left">Your trainer was an unorthodox yaeger, one who walked a fine line between justice and vengance. Training under them was difficult, but you still retain everything they taught you.</td></tr>
+	        </table>
+            <h5>Memento</h5>
+            <p>Yaegers carry with them something that represents their story, earned in training or something they pried off of the corpse of a monster they killed.</p>
+            <p class="indent">Consider what kind of memento your yaeger carries. What is it, and how did you acquire it?</p>
+            <table class="memento">
+			    <thead>
+		            <tr><td class="col-5">d6</td><td class="left">Memento</td></tr>
+		        </thead>
+		        <tr><td> 1</td><td class="left">I wear a necklace that has a tooth from a mighty beast that I defeated on it.</td></tr>
+		        <tr><td> 2</td><td class="left">My master passed down to me a book detailing supernatural creatures and occult practices that they had personally encountered.</td></tr>
+		        <tr><td> 3</td><td class="left">I carry a trinket from my past life prior to me becoming a yaeger, one from a time before that life was taken away from me and reminds me of what I lost as well as where I am headed.</td></tr>
+		        <tr><td> 4</td><td class="left">I still carry the first weapon I ever used to fight with against a terrible creature</td></tr>
+		        <tr><td> 5</td><td class="left">My memento is a scar.</td></tr>
+		        <tr><td> 6</td><td class="left">I carry with me a trinket that was gifted to me from a being I was meant to hunt but instead saved and helped to get away and start a new life.</td></tr>
+	        </table>
+            <h4>Creating a Yaeger</h4>
+            <p>When creating a yaeger, think about what drove your character to take up this life. Did a tragic event occur in their past, or were their lives changed by a monster?</p>
+            <p class="indent">Next, think about how your yaeger perceives and views the occult and supernatural. Do they view all monsters as just that - monsters?</p>
+            <p class="indent">Do they believe many creatures labeled as monsters to be misunderstood, having their own personalities and problems that mortals might not understand or even be aware of?</p>
+            <p class="indent">Additionally, consider your character's personal history with the supernatural prior to the start of the campaign. What occult or supernatural entities have they encountered, and in what way? Were they ignorant to many elements of the supernatural prior to becoming a yaeger? Or have they experienced the paranormal first hand, either willingly or by way of some gruesome and horrifying event that left them scarred?</p>
+            <p class="indent">Finally, discuss with your GM how yaegers are perceived by most people, as well as how common yaegers are in your setting. Are yaegers heralded as saviors? Or are yaegers seen as monsters themselves? Are there famous and established guilds of yaegers, or are yaegers created in secrecy and are no longer as common throughout the world as they once were? Are there any yaeger guilds that are famed for their exploits, having fought off threat after threat? Or are many yaeger guilds dangerous organizations, universally feared for their ritualistic practices and supernatural powers?</p>
+            <p class="indent">Talk to your GM about the role played by yaegers in the campaign.</p>
+            <h5>Quick Build</h5>
+            <p>You can make a yaeger quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution or Wisdom. Second, choose a background found in Chapter 4 of this book.</p>
+            <h3>CLASS FEATURES</h3>
+			<p>As a yaeger, you gain the following class features.</p>
+            <h5>HIT POINTS</h5>
+            <ul class="unstyled">
+                <li><strong>Hit Dice:</strong> 1d10 per yaeger level</li>
+                <li><strong>Hit Points at 1st Level:</strong> 10 + your Constitution modifier</li>
+                <li><strong>Hit Points at Higher Levels:</strong> 1d10 (or 6) + your Constitution modifier per yaeger level after 1st</li>
+            </ul>
+            <h5>PROFICIENCIES</h5>
+            <ul class="unstyled mb">
+                <li><strong>Armor:</strong> Light armor, medium armor, shields</li>
+                <li><strong>Weapons:</strong> Simple weapons, martial weapons</li>
+                <li><strong>Tools:</strong> None</li>
+            </ul>
+            <ul class="unstyled">
+                <li><strong>Saving Throws:</strong> Strength, Wisdom</li>
+                <li><strong>Skills:</strong> Choose three skills from Acrobatics, Arcana, Athletics, Insight, Intimidation, Perception, Religion, and Survival</li>
+            </ul>
+			<h5>EQUIPMENT</h5>
+			<p>You start with the following equipment, in addition to the equipment granted by your background:</p>
+			<ul>
+				<li>two martial weapons</li>
+				<li>a light crossbow and 20 bolts</li>
+				<li><i>(a)</i> leather armor or <i>(b)</i> scale mail</li>
+				<li><i>(a)</i> a dungeoneer’s pack or <i>(b)</i> an explorer’s pack</li>
+			</ul>
+            <p>If you forgo this starting equipment, as well as the items offered by your background, you start with 5d4 x 10 gp to buy your equipment.</p>
+			<h5 class="caption">THE YAEGER</h5>
+			<table class="class-features">
+				<thead>
+					<tr><td class="col-5">Level</td><td class="left">Features</td><td class="col-5">Focus Use</td><td class="col-10">Focus Damage</td></tr>
+				</thead>
+				<tr><td> 1st</td><td class="left">Erudite Tracker, Exotic Lexicon, Focus</td><td>2</td><td>1d6</td></tr>
+				<tr><td> 2nd</td><td class="left">Fighting Style, Slayer's Alacrity (1/rest)</td><td>2</td><td>1d6</td></tr>
+				<tr><td> 3rd</td><td class="left">Hunter's Agility, Yeager Guild</td><td>2</td><td>1d6</td></tr>
+				<tr><td> 4th</td><td class="left">Ability Score Improvement</td><td>2</td><td>1d6</td></tr>
+				<tr><td> 5th</td><td class="left">Extra Attack, Slayer's Alacrity (2/rest)</td><td>3</td><td>1d8</td></tr>
+				<tr><td> 6th</td><td class="left">Yaeger Guild feature</td><td>3</td><td>1d8</td></tr>
+				<tr><td> 7th</td><td class="left">Evasion</td><td>3</td><td>1d8</td></tr>
+				<tr><td> 8th</td><td class="left">Ability Score Improvement</td><td>3</td><td>1d8</td></tr>
+				<tr><td> 9th</td><td class="left">Preternatural Senses</td><td>3</td><td>1d8</td></tr>
+				<tr><td>10th</td><td class="left">Stalwart Defenses, Yaeger Guild feature</td><td>3</td><td>1d8</td></tr>
+				<tr><td>11th</td><td class="left">Slayer's Alacrity (3/rest)</td><td>4</td><td>1d10</td></tr>
+				<tr><td>12th</td><td class="left">Ability Score Improvement</td><td>4</td><td>1d10</td></tr>
+				<tr><td>13th</td><td class="left">Fortitude of Will</td><td>4</td><td>1d10</td></tr>
+				<tr><td>14th</td><td class="left">Yaeger Guild feature</td><td>4</td><td>1d10</td></tr>
+				<tr><td>15th</td><td class="left">Honed Awareness</td><td>4</td><td>1d10</td></tr>
+				<tr><td>16th</td><td class="left">Ability Score Improvement</td><td>4</td><td>1d10</td></tr>
+				<tr><td>17th</td><td class="left">Slayer's Alacrity (4/rest)</td><td>5</td><td>1d12</td></tr>
+				<tr><td>18th</td><td class="left">Yaeger Guild feature</td><td>5</td><td>1d12</td></tr>
+				<tr><td>19th</td><td class="left">Ability Score Improvement</td><td>5</td><td>1d12</td></tr>
+				<tr><td>20th</td><td class="left">Master's Focus</td><td>5</td><td>1d12</td></tr>
+			</table>
+			<div element="ID_YORVIING_CLASS_FEATURE_ERUDITETRACKER" />
+			<div element="ID_YORVIING_CLASS_FEATURE_EXOTICLEXICON" />
+			<div element="ID_YORVIING_CLASS_FEATURE_FOCUS" />
+			<div element="ID_YORVIING_CLASS_FEATURE_FIGHTINGSTYLE" />
+			<div element="ID_YORVIING_CLASS_FEATURE_SLAYERSALACRITY" />
+			<div element="ID_YORVIING_CLASS_FEATURE_HUNTERSAGILITY" />
+            <div element="ID_YORVIING_CLASS_FEATURE_YAEGERGUILD" />
+			<div element="ID_YORVIING_CLASS_FEATURE_ABILITYSCOREIMPROVEMENT_YAEGER" />
+			<div element="ID_YORVIING_CLASS_FEATURE_EXTRAATTACK" />
+            <div element="ID_YORVIING_CLASS_FEATURE_EVASION" />
+            <div element="ID_YORVIING_CLASS_FEATURE_PRETERNATURALSENSES" />
+            <div element="ID_YORVIING_CLASS_FEATURE_STALWARTHUNTER" />
+			<div element="ID_YORVIING_CLASS_FEATURE_FORTITUDEOFWILL" />
+            <div element="ID_YORVIING_CLASS_FEATURE_HONEDAWARENESS" />
+			<div element="ID_YORVIING_CLASS_FEATURE_MASTERSFOCUS" />
+        </description>
+        <sheet display="false">
+            <description>A supernaturally powered monster hunter</description>
+        </sheet>
+        <setters>
+            <set name="short">A supernaturally powered monster hunter</set>
+            <set name="hd">d10</set>
+        </setters>
+        <rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" requirements="!ID_YORVIING_MULTICLASS_YAEGER"/>
+			<grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_MEDIUM_ARMOR" requirements="!ID_YORVIING_MULTICLASS_YAEGER"/>
+			<grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_SHIELDS" requirements="!ID_YORVIING_MULTICLASS_YAEGER"/>
+			<grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SIMPLE_WEAPONS" requirements="!ID_YORVIING_MULTICLASS_YAEGER"/>
+			<grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_MARTIAL_WEAPONS" requirements="!ID_YORVIING_MULTICLASS_YAEGER"/>
+			<grant type="Proficiency" id="ID_PROFICIENCY_SAVINGTHROW_STRENGTH" requirements="!ID_YORVIING_MULTICLASS_YAEGER"/>
+			<grant type="Proficiency" id="ID_PROFICIENCY_SAVINGTHROW_WISDOM" requirements="!ID_YORVIING_MULTICLASS_YAEGER"/>
+            <select type="Proficiency" name="Skill Proficiency (Yaeger)" supports="ID_PROFICIENCY_SKILL_ACROBATICS|ID_PROFICIENCY_SKILL_ARCANA|ID_PROFICIENCY_SKILL_ATHLETICS|ID_PROFICIENCY_SKILL_INSIGHT|ID_PROFICIENCY_SKILL_INTIMIDATION|ID_PROFICIENCY_SKILL_PERCEPTION|ID_PROFICIENCY_SKILL_RELIGION|ID_PROFICIENCY_SKILL_SURVIVAL" requirements="!ID_YORVIING_MULTICLASS_YAEGER" number="3" />
+            <grant type="Class Feature" id="ID_YORVIING_CLASS_FEATURE_ERUDITETRACKER" level="1"/>
+            <grant type="Class Feature" id="ID_YORVIING_CLASS_FEATURE_EXOTICLEXICON" level="1"/>
+            <grant type="Class Feature" id="ID_YORVIING_CLASS_FEATURE_FOCUS" level="1"/>
+            <grant type="Class Feature" id="ID_YORVIING_CLASS_FEATURE_FIGHTINGSTYLE" level="2"/>
+            <grant type="Class Feature" id="ID_YORVIING_CLASS_FEATURE_SLAYERSALACRITY" level="2"/>
+            <grant type="Class Feature" id="ID_YORVIING_CLASS_FEATURE_HUNTERSAGILITY" level="3"/>
+            <grant type="Class Feature" id="ID_YORVIING_CLASS_FEATURE_YAEGERGUILD" level="3"/>
+            <grant type="Class Feature" id="ID_YORVIING_CLASS_FEATURE_ABILITYSCOREIMPROVEMENT_YAEGER" level="4"/>
+            <grant type="Class Feature" id="ID_YORVIING_CLASS_FEATURE_EXTRAATTACK" level="5"/>
+            <grant type="Class Feature" id="ID_YORVIING_CLASS_FEATURE_EVASION" level="7"/>
+            <grant type="Class Feature" id="ID_YORVIING_CLASS_FEATURE_PRETERNATURALSENSES" level="9"/>
+            <grant type="Class Feature" id="ID_YORVIING_CLASS_FEATURE_STALWARTHUNTER" level="10"/>
+            <grant type="Class Feature" id="ID_YORVIING_CLASS_FEATURE_FORTITUDEOFWILL" level="13"/>
+            <grant type="Class Feature" id="ID_YORVIING_CLASS_FEATURE_HONEDAWARENESS" level="15"/>
+            <grant type="Class Feature" id="ID_YORVIING_CLASS_FEATURE_MASTERSFOCUS" level="20"/>
+        </rules>
+        <multiclass id="ID_YORVIING_MULTICLASS_YAEGER">
+            <prerequisite>Strength 13</prerequisite>
+            <requirement>[str:13]</requirement>
+            <setters>
+                <set name="multiclass proficiencies">Light armor, medium armor, shields, simple weapons, martial weapons</set>
+            </setters>
+            <rules>
+				<grant type="Grants" id="ID_INTERNAL_GRANT_MULTICLASS" />
+				<grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
+				<grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_MEDIUM_ARMOR" />
+				<grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_SHIELDS" />
+				<grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SIMPLE_WEAPONS" />
+				<grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_MARTIAL_WEAPONS" />
+            </rules>
+        </multiclass>
+    </element>
+    <element name="Erudite Tracker" type="Class Feature" source="Yorviing" id="ID_YORVIING_CLASS_FEATURE_ERUDITETRACKER">
+        <description>
+            <p>Starting at 1st level, you know the best way to hunt your chosen quarry. You gain the following benefits:</p>
+            <ul class="unstyled mb">
+                <li>When you make an ability check made to track a creature you've seen, you are considered proficient in the Survival skill for this roll. If you're already proficient, you add twice your proficiency bonus to the check, provided you're actively tracking the creature.</li>
+                <li>When you make an ability check to recall lore surrounding a creature you've studied (such as in a library or under another hunter) for at least 1 hour, you are considered proficient in the skill required to remember information about it, such as Arcana or Nature, for this roll. If you're already proficient, you add twice your proficiency bonus to the check, provided you're actively tracking the creature.</li>
+            </ul>
+        </description>
+        <sheet>
+            <description>When you make a Survival check to track a creature you've seen, or an ability check to recall lore surrounding a creature you've studied for at least 1 hour, you are considered proficient in the skill for this roll. If you're already proficient, you add twice your proficiency bonus to the check, provided you're actively tracking the creature.</description>
+        </sheet>
+    </element>
+    <element name="Exotic Lexicon" type="Class Feature" source="Yorviing" id="ID_YORVIING_CLASS_FEATURE_EXOTICLEXICON">
+        <description>
+            <p>You have acquired an otherworldly lexicon. You learn how to speak, read, and write one exotic language of your choice. You gain one additional exotic language at 6th level and again at 14th level.</p>
+        </description>
+        <sheet display="false" />
+        <rules>
+            <select type="Language" name="Exotic Language" supports="ID_LANGUAGE_ABYSSAL|ID_LANGUAGE_CELESTIAL|ID_LANGUAGE_DRACONIC_ID_LANGUAGE_DEEP_SPEECH|ID_LANGUAGE_DEEP_SPEECH|ID_LANGUAGE_INFERNAL|ID_LANGUAGE_PRIMORDIAL|ID_LANGUAGE_SYLVAN|ID_LANGUAGE_UNDERCOMMON" number="1" />
+            <select type="Language" name="Exotic Language" supports="ID_LANGUAGE_ABYSSAL|ID_LANGUAGE_CELESTIAL|ID_LANGUAGE_DRACONIC_ID_LANGUAGE_DEEP_SPEECH|ID_LANGUAGE_DEEP_SPEECH|ID_LANGUAGE_INFERNAL|ID_LANGUAGE_PRIMORDIAL|ID_LANGUAGE_SYLVAN|ID_LANGUAGE_UNDERCOMMON" level="6" number="1" />
+            <select type="Language" name="Exotic Language" supports="ID_LANGUAGE_ABYSSAL|ID_LANGUAGE_CELESTIAL|ID_LANGUAGE_DRACONIC_ID_LANGUAGE_DEEP_SPEECH|ID_LANGUAGE_DEEP_SPEECH|ID_LANGUAGE_INFERNAL|ID_LANGUAGE_PRIMORDIAL|ID_LANGUAGE_SYLVAN|ID_LANGUAGE_UNDERCOMMON" level="14" number="1" />
+        </rules>
+    </element>
+    <element name="Focus" type="Class Feature" source="Yorviing" id="ID_YORVIING_CLASS_FEATURE_FOCUS">
+        <description>
+            <p>Finally at 1st level, your yaeger training has granted you the ability to enter into a heightened state of focus when the thrill of the hunt calls to you. When you roll initiative (no action required), or as a bonus action on your turn, you can enter your focus. While focused, you gain the following benefits:</p>
+            <ul class="unstyled">
+                <li>Your speed increases by 5 feet.</li>
+                <li>Melee weapon attacks you make on your turn deal an extra 1d6 damage. A creature can take this damage only once per turn. This damage increases as you gain levels in this class, as shown in the Focus Damage column of the Yaeger table.</li>
+                <li>During your turns, you have a bonus to your AC equal to your Wisdom modifier.</li>
+            </ul>
+            <p>Your Focus lasts for 1 minute. It ends early if you are knocked unconscious or if you end your focus as a bonus action. You can't enter your focus if you are surprised or incapacitated.</p>
+            <p class="indent">You can use this feature a number of times as shown in the Focus Uses column of the Yaeger table. You regain all expended uses of this feature when you finish a short or long rest.</p>
+        </description>
+        <sheet action="Bonus Action" usage="2/Short Rest">
+            <description>When you roll initiative, or as a bonus action on your turn, you can enter your focus. While focused, your speed increases by 5 feet, melee weapon attacks deal an extra 1d6 damage once per turn, and you gain a +{{yaeger:focus}} bonus to your AC. Your Focus lasts for 1 minute. It ends early if you are knocked unconscious or if you end your focus as a bonus action. You can't enter your focus if you are surprised or incapacitated.</description>
+            <description usage="3/short rest" level="5">When you roll initiative, or as a bonus action on your turn, you can enter your focus. While focused, your speed increases by 5 feet, melee weapon attacks deal an extra 1d8 damage once per turn, and you gain a +{{yaeger:focus}} bonus to your AC. Your Focus lasts for 1 minute. It ends early if you are knocked unconscious or if you end your focus as a bonus action. You can't enter your focus if you are surprised or incapacitated.</description>
+            <description usage="4/short rest" level="11">When you roll initiative, or as a bonus action on your turn, you can enter your focus. While focused, your speed increases by 5 feet, melee weapon attacks deal an extra 1d10 damage once per turn, and you gain a +{{yaeger:focus}} bonus to your AC. Your Focus lasts for 1 minute. It ends early if you are knocked unconscious or if you end your focus as a bonus action. You can't enter your focus if you are surprised or incapacitated.</description>
+            <description usage="5/short rest" level="17">When you roll initiative, or as a bonus action on your turn, you can enter your focus. While focused, your speed increases by 5 feet, melee weapon attacks deal an extra 1d12 damage once per turn, and you gain a +{{yaeger:focus}} bonus to your AC. Your Focus lasts for 1 minute. It ends early if you are knocked unconscious or if you end your focus as a bonus action. You can't enter your focus if you are surprised or incapacitated.</description>
+        </sheet>
+        <rules>
+            <stat name="yaeger:focus" value="wisdom:modifier" />
+        </rules>
+    </element>
+    <element name="Fighting Style" type="Class Feature" source="Yorviing" id="ID_YORVIING_CLASS_FEATURE_FIGHTINGSTYLE">
+        <description>
+			<p>You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.</p>
+			<h5 class="caption">DEFENSE</h5>
+			<p>While you are wearing armor, you gain a +1 bonus to AC.</p>
+			<h5 class="caption">DUELING</h5>
+			<p>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.</p>
+			<h5 class="caption">GREAT WEAPON FIGHTING</h5>
+			<p>When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.</p>
+			<h5 class="caption">FLEET FOOTWORK</h5>
+			<p>When you move at least 5 feet directly toward a hostile creature and attack it with a melee weapon attack, you gain a +2 bonus to the attack roll.</p>
+			<h5 class="caption">TWO-WEAPON FIGHTING</h5>
+			<p>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</p>
+		</description>
+		<rules>
+			<select type="Class Feature" name="Fighting Style" supports="Fighting Style, Yaeger" level="2"/>
+		</rules>
+    </element>
+    <element name="Slayer's Alacrity" type="Class Feature" source="Yorviing" id="ID_YORVIING_CLASS_FEATURE_SLAYERSALACRITY">
+        <description>
+            <p>Beginning at 2nd level, you can weave your incredible speed into a graceful mix of offense and defense. When you take the Attack action on your turn, you can choose to gain the benefit of the Dodge action until the start of your next turn.</p>
+            <p class="indent">You can use this feature once. The number of times you can use this feature increases as you gain levels in this class: two at 5th level, three at 11th level, and four at 17th level. You regain all expended uses of this feature when you finish a short or long rest.</p>
+        </description>
+        <sheet usage="1/short resat">
+            <description>When you take the Attack action on your turn, you can choose to gain the benefit of the Dodge action until the start of your next turn.</description>
+            <description usage="2/short rest" level="5">When you take the Attack action on your turn, you can choose to gain the benefit of the Dodge action until the start of your next turn.</description>
+            <description usage="3/short rest" level="11">When you take the Attack action on your turn, you can choose to gain the benefit of the Dodge action until the start of your next turn.</description>
+            <description usage="4/short rest" level="17">When you take the Attack action on your turn, you can choose to gain the benefit of the Dodge action until the start of your next turn.</description>
+        </sheet>
+    </element>
+    <element name="Hunter's Agility" type="Class Feature" source="Yorviing" id="ID_YORVIING_CLASS_FEATURE_HUNTERSAGILITY">
+        <description>
+            <p>Starting at 3rd level, your speed increases by 10 feet.</p>
+        </description>
+        <sheet display="false"/>
+        <rules>
+            <stat name="speed:misc" value="10" requirements="[speed:1]" />
+        </rules>
+    </element>
+    <element name="Yaeger Guild" type="Class Feature" source="Yorviing" id="ID_YORVIING_CLASS_FEATURE_YAEGERGUILD">
+        <description>
+            <p>At 3rd level, you join a guild of yaegers where you gain supernatural power, known as your Yaeger Guild.</p>
+            <p class="indent">The available Yaeger Guilds are Guild of the Hexer, Guild of the Pyromant, Guild of the Reaver, Guild of the Remnant, and Guild of the Wolf, all of which are detailed at the end of the class description. Your Yaeger Guild choice grants you features at 3rd level and again at 6th, 10th, 14th, and 18th level.</p>
+        </description>
+        <sheet display="false" />
+        <rules>
+			<select type="Guild" name="Yaeger Guild" supports="Yaeger Guild" level="3" />
+        </rules>
+    </element>
+    	<element name="Ability Score Improvement" type="Class Feature" source="Yorviing" id="ID_YORVIING_CLASS_FEATURE_ABILITYSCOREIMPROVEMENT_YAEGER">
+		<compendium display="false" />
+		<description>
+			<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<select type="Class Feature" name="Improvement Option (Yaeger 4)" supports="Improvement Option,Yaeger,4" level="4" />
+			<select type="Class Feature" name="Improvement Option (Yaeger 8)" supports="Improvement Option,Yaeger,8" level="8" />
+			<select type="Class Feature" name="Improvement Option (Yaeger 12)" supports="Improvement Option,Yaeger,12" level="12" />
+			<select type="Class Feature" name="Improvement Option (Yaeger 16)" supports="Improvement Option,Yaeger,16" level="16" />
+			<select type="Class Feature" name="Improvement Option (Yaeger 19)" supports="Improvement Option,Yaeger,19" level="19" />
+		</rules>
+	</element>
+    	<element name="Extra Attack" type="Class Feature" source="Yorviing" id="ID_YORVIING_CLASS_FEATURE_EXTRAATTACK">
+		<description>
+			<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</p>
+		</description>
+		<sheet>
+			<description>You can attack twice, instead of once, whenever you take the Attack action on your turn</description>
+		</sheet>
+		<rules>
+			<stat name="extra attack:count" value="2" level="5" bonus="extra attack" />
+		</rules>
+	</element>
+    	<element name="Evasion" type="Class Feature" source="Yorviing" id="ID_YORVIING_CLASS_FEATURE_EVASION">
+		<description>
+			<p>Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon’s fiery breath or an ice storm spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</p>
+		</description>
+		<sheet>
+			<description>When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</description>
+		</sheet>
+	</element>
+    <element name="Preternatural Senses" type="Class Feature" source="Yorviing" id="ID_YORVIING_CLASS_FEATURE_PRETERNATURALSENSES">
+        <description>
+            <p>By 9th level, your senses become further enhanced. You can take the Search action as a bonus action.</p>
+            <p class="indent">When you take the Search action while focused, you gain the following benefits until the start of your next turn:</p>
+            <ul class="unstyled">
+                <li>Being invisible or heavily obscured from you grants no benefit against your attempts to find or detect an object or creature.</li>
+                <li>You have advantage on Wisdom and Intelligence checks made to track or locate a target.</li>
+            </ul>
+        </description>
+        <sheet>
+            <description>You can take the Search action as a bonus action. When you take the Search action while focused, being invisible or heavily obscured from you grants no benefit against your attempts to find or detect an object or creature, and you have advantage on Wisdom and Intelligence checks made to track or locate a target until the start of your next turn.</description>
+        </sheet>
+    </element>
+    <element name="Stalwart Hunter" type="Class Feature" source="Yorviing" id="ID_YORVIING_CLASS_FEATURE_STALWARTHUNTER">
+        <description>
+            <p>By 10th level, you gain proficiency in one of your choice of Dexterity or Constitution saving throws.</p>
+        </description>
+        <sheet>
+            <description>You gain proficiency in one of your choice of Dexterity or Constitution saving throws.</description>
+        </sheet>
+        <rules>
+            <select type="Proficiency" supports="ID_PROFICIENCY_SAVINGTHROW_DEXTERITY|ID_PROFICIENCY_SAVINGTHROW_CONSTITUTION" number="1"/>
+        </rules>
+    </element>
+    <element name="Fortitude of Will" type="Class Feature" source="Yorviing" id="ID_YORVIING_CLASS_FEATURE_FORTITUDEOFWILL">
+        <description>
+            <p>By 13th level, you have honed your will to become resilient to supernatural and otherworldly harm. When you fail an Intelligence, Wisdom, or Charisma saving throw you make to avoid taking damage, you instead take only half damage.</p>
+        </description>
+        <sheet>
+            <description>When you fail an Intelligence, Wisdom, or Charisma saving throw you make to avoid taking damage, you instead take only half damage.</description>
+        </sheet>
+    </element>
+    <element name="Honed Awareness" type="Class Feature" source="Yorviing" id="ID_YORVIING_CLASS_FEATURE_HONEDAWARENESS">
+        <description>
+            <p>By 15th level, other creatures don't gain advantage on attack rolls against you as a result of being hidden from you, and when you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it.</p>
+        </description>
+        <sheet>
+            <description>Other creatures don't gain advantage on attack rolls against you as a result of being hidden from you, and when you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it.</description>
+        </sheet>
+    </element>
+    <element name="Master's Focus" type="Class Feature" source="Yorviing" id="ID_YORVIING_CLASS_FEATURE_MASTERSFOCUS">
+        <description>
+            <p>At 20th level, you have gained complete command over your focus. When you enter your focus, you can choose to enter your Master's Focus. When you do, your focus gains the following benefits:</p>
+            <ul class="unstyled">
+                <li>Your speed is doubled instead of increased by 5 feet.</li>
+                <li>You roll 2 Focus Dice, instead of one, when you hit with a melee weapon attack. A creature can still only take this damage once on each of your turns.</li>
+                <li>You have advantage on Dexterity and Wisdom checks and saving throws.</li>
+            </ul>
+            <p>Once you have used this feature, you can't do so again until you finish a long rest.</p>
+        </description>
+        <sheet usage="1/long rest">
+            <description>When you enter your focus, you can choose to enter your Master's Focus. When you do, your speed is doubled instead of increased by 5 feet, you roll 2 Focus Dice, instead of one, when you hit with a melee weapon attack, and you have advantage on Dexterity and Wisdom checks and saving throws.</description>
+        </sheet>
+    </element>
+</elements>
